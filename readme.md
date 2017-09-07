@@ -1,9 +1,9 @@
-Ultimate ASI Loader
+Ultimate DLL Loader
 ===================
 
 DESCRIPTION
 ------------------------
-This is a DLL file which adds ASI plugin loading functionality to any game, which uses any of the following libraries:
+This is a DLL file which adds DLL plugin loading functionality to any game, which uses any of the following libraries:
 * d3d8.dll
 * d3d9.dll
 * d3d11.dll
@@ -25,7 +25,7 @@ In order to install it, you just need to place DLL into game directory. Usually 
 
 USAGE
 ------------------------
-Put ASI files in game root directory, 'scripts' or 'plugins' folder.
+Put DLL files in 'scripts' or 'plugins' folder.
 
 
 ADDITIONAL WINDOWED MODE FEATURE
